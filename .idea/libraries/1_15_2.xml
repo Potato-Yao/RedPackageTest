@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="1.15.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/1.15.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/1.15.2.jar!/com/mojang/realmsclient/dto" />
+    </SOURCES>
+  </library>
+</component>
