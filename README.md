@@ -48,7 +48,7 @@ public class RedPackageTest
 
 
 
-![](F:\untitled\image\大佬的实现.png)
+![image\大佬的实现](F:\untitled\image\大佬的实现.png)
 
 下面是我根据知乎上疑似微信红包实现进行可运行性补充后的代码：
 
@@ -109,7 +109,7 @@ public class Test
 
 
 
-![F:\untitled\image\carbon (1)](F:\untitled\image\carbon (1).png)
+![image\carbon (1)](F:\untitled\image\carbon (1).png)
 
 代码均上传至GitHub，网址
 
@@ -129,15 +129,15 @@ public class Test
 
 这里是 @心有灵犀 附的他的代码的测试结果：
 
-![](F:\untitled\image\psc.jpg)
+![image\psc](F:\untitled\image\psc.jpg)
 
 在他的结果中，第一个人抢到的红包远高于后抢的人，但这与事实不符：
 
-![](F:\untitled\image\Screenshot_20210212_121945.jpg)
+![image\Screenshot_20210212_121945](F:\untitled\image\Screenshot_20210212_121945.jpg)
 
-![](F:\untitled\image\Screenshot_20210212_122025.jpg)
+![image\Screenshot_20210212_122025](F:\untitled\image\Screenshot_20210212_122025.jpg)
 
-![](F:\untitled\image\Screenshot_20210212_122114.jpg)
+![image\Screenshot_20210212_122114](F:\untitled\image\Screenshot_20210212_122114.jpg)
 
 图源为我家家庭群
 
