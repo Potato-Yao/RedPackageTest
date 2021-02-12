@@ -48,7 +48,7 @@ public class RedPackageTest
 
 
 
-![](F:\浏览器Downloads\大佬的实现.png)
+![](F:\untitled\image\大佬的实现.png)
 
 下面是我根据知乎上疑似微信红包实现进行可运行性补充后的代码：
 
@@ -109,15 +109,15 @@ public class Test
 
 
 
-![](F:\浏览器Downloads\carbon (1).png)
+![](F:\untitled\image\carbon (1).png)
 
 代码均上传至GitHub，网址
 
-[GitHub地址]: https://github.com/Potato-Yao/RedPackageTest
+[GitHub地址]: https://github.com/Potato-Yao/RedPackageTest	"GitHub地址"
 
 可见，我们的实现方法并不相同，且 @心有灵犀 不在家，无法展示他的测试文件。介于这两点，我认为继续执自己的代码争论就成了一种无意义且幼稚的行为，因此作为证据，我截取了一段`毕导THU`的视频，原视频地址
 
-[毕导THU的原视频]: https://www.bilibili.com/video/av84581638
+[毕导THU的原视频]: https://www.bilibili.com/video/av84581638	"毕导的视频"
 
 我截取的视频在附的文件中
 
@@ -129,15 +129,15 @@ public class Test
 
 这里是 @心有灵犀 附的他的代码的测试结果：
 
-![](F:\浏览器Downloads\psc.jpg)
+![](F:\untitled\image\psc.jpg)
 
 在他的结果中，第一个人抢到的红包远高于后抢的人，但这与事实不符：
 
-![](F:\浏览器Downloads\Screenshot_20210212_121945.jpg)
+![](F:\untitled\image\Screenshot_20210212_121945.jpg)
 
-![](F:\浏览器Downloads\Screenshot_20210212_122025.jpg)
+![](F:\untitled\image\Screenshot_20210212_122025.jpg)
 
-![](F:\浏览器Downloads\Screenshot_20210212_122114.jpg)
+![](F:\untitled\image\Screenshot_20210212_122114.jpg)
 
 图源为我家家庭群
 
